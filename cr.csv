@@ -1,10 +1,18 @@
 Company Race,Total score,Satisfaction,Ways of working,Descision making,Relationships and Behaviour,Performance,Change Management,Density,Communication,General
 All Groups,67,69,71,62,72,61,62,68,68,68
+
 CompanyA Race1,71,73,75,65,74,63,69,66,72,77
+
 CompanyA Race2,69,70,76,64,76,60,65,62,66,73
+
 CompanyA race3,69,72,73,65,73,60,65,67,68,72
-CompanyA race4,69,71,71,65,72,63,65,73,70,67
+
+CompanyA race4,69,71,71,65,72,63,65,73,68,69
+
 CompanyB race1,68,71,76,62,74,61,67,55,70,70
+
 CompanyB race2,67,68,74,65,73,62,60,61,70,67
+
 CompanyB race3,67,64,71,58,74,61,63,65,66,71
+
 CompanyB race4,62,64,66,54,68,56,54,68,64,60
